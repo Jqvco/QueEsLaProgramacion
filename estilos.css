@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 	font-family: helvetica;
 }
+html {
+	scroll-behavior: smooth;
+}
 /* *============================* */
 /* *========== NAVBAR ==========* */
 /* *============================* */
@@ -80,23 +83,23 @@
 	color: #525151;
 }
 .link-habilidades{
-	color: #1678da;
+	color: #e26a3f;
 	text-decoration: none;
 }
 .link-html{
-	color: #1678da;
+	color: #e26a3f;
 	text-decoration: none;
 }
 .link-css{
-	color:#1678da;
+	color:#e26a3f;
 	text-decoration: none;
 }
 .link-js{
-	color: #1678da;
+	color: #e26a3f;
 	text-decoration: none;
 }
 .link-editor{
-	color: #1678da;
+	color: #e26a3f;
 	text-decoration: none;
 }
 .link-habilidades:hover{
@@ -244,6 +247,7 @@ aside .indice a:hover{
 #boton-centrado{
 	text-align: center;
 }
+
 /* *============================* */
 /* *========== FOOTER ==========* */
 /* *============================* */
