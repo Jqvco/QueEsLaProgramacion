@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 	font-family: helvetica;
 }
+/* *============================* */
+/* *========== NAVBAR ==========* */
+/* *============================* */
 .navbar {
 	background: #FFCD48;
 	position: sticky;
@@ -23,6 +26,9 @@
 	background: #1D2F3D;
 	color: #ffffff;
 }
+/* *============================* */
+/* *========== CONTENEDORES ====* */
+/* *============================* */
 .contenedor {
 	max-width: 1000px;
 	width: 90%;
@@ -39,7 +45,9 @@
 	object-fit: cover;
 	object-position: 0 bottom;
 }
-
+/* *============================* */
+/* *========== DISEÑOS =========* */
+/* *============================* */
 .b-css:hover{
 	color:#90c5fb;
 }
@@ -107,6 +115,9 @@
 	position: relative;
 	left: 18px;
 }
+/* *============================* */
+/* *========== MAIN ============* */
+/* *============================* */
 main {
 	min-height: 100vh;
 }
@@ -126,6 +137,9 @@ main .contenido .fecha {
 	font-size: 14px;
 	color: #B5B5B5;
 }
+/* *============================* */
+/* *========== ASIDE ===========* */
+/* *============================* */
 aside {
 	min-width: 30%;
 	margin: 40px 20px 20px 0;
@@ -154,6 +168,9 @@ aside .indice a {
 aside .indice a:hover{
 	text-decoration: underline;
 }
+/* *============================* */
+/* *======= BOTÓN DE NEÓN ======* */
+/* *============================* */
 .btn-neon{
 	position: relative;
 	display: inline-block;
@@ -227,7 +244,9 @@ aside .indice a:hover{
 #boton-centrado{
 	text-align: center;
 }
-
+/* *============================* */
+/* *========== FOOTER ==========* */
+/* *============================* */
 footer .navbar {
 	position: sticky;
 	bottom: 0;
